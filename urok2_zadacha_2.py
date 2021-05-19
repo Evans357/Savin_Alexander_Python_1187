@@ -15,3 +15,4 @@ while i != len(text): #  пока перебираемые элементы не
         text[i] += ' '
         i += 1
 print(res.join(text))
+    
